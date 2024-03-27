@@ -1,3 +1,7 @@
+.idea
+saved_models/
+gifs/**
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

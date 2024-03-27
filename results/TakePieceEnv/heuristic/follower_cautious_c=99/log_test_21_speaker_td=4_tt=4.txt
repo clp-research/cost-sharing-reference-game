@@ -1,0 +1,33 @@
+---------------------------------------
+| episode/                 |          |
+|    effort/follower_abs   | 22.9     |
+|    effort/follower_rel   | 1.65     |
+|    effort/mean_joint_abs | 16.2     |
+|    effort/mean_joint_rel | 1.19     |
+|    effort/speaker_abs    | 9.4      |
+|    effort/speaker_rel    | 0.727    |
+|    outcome/abort         | 0        |
+|    outcome/failure       | 0.0327   |
+|    outcome/success       | 0.967    |
+|    reward/final          | 1.72     |
+|    reward/follower       | 0.656    |
+|    reward/goal           | 0.943    |
+|    reward/joint          | 0.758    |
+|    reward/speaker        | 0.859    |
+|    reward/time           | 0.793    |
+|    step/count            | 13.8     |
+| step/                    |          |
+|    follower/move         | 0.827    |
+|    follower/wait         | 0.0815   |
+|    speaker/confirm       | 0.0551   |
+|    speaker/decline       | 0.0198   |
+|    speaker/directive     | 0.106    |
+|    speaker/move          | 0.0403   |
+|    speaker/reference     | 0.0696   |
+|    speaker/reference/CSP | 0.0259   |
+|    speaker/reference/PCS | 0.00954  |
+|    speaker/reference/PSC | 0.00835  |
+|    speaker/reference/SCP | 0.0258   |
+|    speaker/silence       | 0.75     |
+|    speaker/take          | 0.0656   |
+---------------------------------------

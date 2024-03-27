@@ -1,0 +1,16 @@
+torch==2.0.1
+pytorch-lightning==2.0.5
+torchmetrics==1.1.1
+torchvision==0.15.2
+stable-baselines3==2.1.0
+sb3-contrib==2.1.0
+gymnasium==0.29.1
+tqdm==4.66.1
+rich==13.5.2
+networkx==3.1
+pymovie==3.9.0
+numpy==1.23.1
+matplotlib==3.7.2
+pettingzoo==1.24.1
+seaborn==0.12.2
+jupyter==1.0.0
